@@ -1,0 +1,347 @@
+B0152603                000000000007931008                  SUCATA CONCRETO ARMADO 1                                                        CDA       1.00      0.62 1
+B0152603                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      1.77 1
+B0152603                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        1.00    436.83 2
+B0152603                SDEMU3203RD                                                                 RETIRAR EST CRUZ SIMP ISOL PINO/PILAR   UD        2.00    109.44 2
+B0152603                                                    VALOR SALVADO                                                                             0.00      2.39-3
+B0152603                                                    ENG. E ADMIN.PROPRIA                                                                      0.00     96.40 3
+B0177062                000000000007931010                  SUCATA CONCRETO ARMADO 2                                                        CDA       6.00      6.00 1
+B0177062                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       2.00      2.00 1
+B0177062                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA       8.00      8.00 1
+B0177062                NDEVU0013RD                                                                 RETIRAR EST CRUZETA DUPLA (1 ANCORAGEM) UD        2.00   1556.56 2
+B0177062                NDEVU0001RD                                                                 PROTEÇÃO LV POSTE/REDE - RETIRAR        UD        1.00    515.60 2
+B0177062                NDETU0020SD                                                                 TRANSP MAT OBRA - 25TON > DE 50 KM NPAV TXK       2.40      0.94 2
+B0177062                NDETU0019SD                                                                 TRANSP MAT OBRA - 25TON > DE 50 KM  PAV TXK      62.36     19.33 2
+B0177062                NDETU0018SD                                                                 TRANSP MAT OBRA - 25TON - ATE 50 KM NPAVCDA       1.00   1153.40 2
+B0177062                NDETU0017SD                                                                 TRANSP MAT OBRA - 25TON - ATE 50 KM  PAVCDA       1.00    937.73 2
+B0177062                NDEMU0002RD                                                                 RETIRAR POSTE 10 A 16 METROS            UD        2.00   1722.44 2
+B0177062                                                    VALOR SALVADO                                                                             0.00     16.00-3
+B0177062                                                    ENG. E ADMIN.PROPRIA                                                                      0.00   1042.23 3
+B0446055                000000000007912007                  SUCATA CABO AL S/ALMA                                                           KG       10.20      5.20 1
+B0446055                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA       6.00      3.06 1
+B0446055                000000000007931008                  SUCATA CONCRETO ARMADO 1                                                        CDA       3.00      1.53 1
+B0446055                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      0.51 1
+B0446055                NDEMU0012RD                                                                 RETIRAR COND NU                         KG       10.20     68.54 2
+B0446055                NDEVU0009RD                                                                 RETIRAR EST CRUZETA SIMPLES (PINO)      UD        1.00    437.71 2
+B0446055                NDEVU0001RD                                                                 PROTEÇÃO LV POSTE/REDE - RETIRAR        UD        1.00    515.60 2
+B0446055                NDEVU0013RD                                                                 RETIRAR EST CRUZETA DUPLA (1 ANCORAGEM) UD        1.00    778.28 2
+B0446055                NDEMU0002RD                                                                 RETIRAR POSTE 10 A 16 METROS            UD        1.00    861.22 2
+B0446055                NDETU0016SD                                                                 TRANSP MAT OBRA - 14TON > DE 50 KM NPAV TXK       0.46      0.19 2
+B0446055                NDETU0015SD                                                                 TRANSP MAT OBRA - 14TON > DE 50 KM  PAV TXK      78.98     26.85 2
+B0446055                NDETU0014SD                                                                 TRANSP MAT OBRA - 14TON - ATE 50 KM NPAVCDA       1.00    818.15 2
+B0446055                NDETU0013SD                                                                 TRANSP MAT OBRA - 14TON - ATE 50 KM  PAVCDA       1.00    665.16 2
+B0446055                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    736.18 3
+B0446055                                                    VALOR SALVADO                                                                             0.00     10.30-3
+B0647807                000000000003300012                  POSTE CONCRETO DT  9/400 29F                                                    CDA       1.00    296.82 1
+B0647807                000000000003417035                  ARMACAO SECUN ACO CARB 2 ESTR 350X 310MM                                        CDA       1.00      8.04 1
+B0647807                000000000002300000                  ISOLADOR ROLDANA PORC  76,0MM  1350DAN.                                         CDA       2.00      2.72 1
+B0647807                                                    LUZ PARA TODOS                                                                            0.00    103.42 3
+B0647807                                                                                            RETIRAR POSTE 7 A 9 METROS              UD        1.00    425.42 4
+B0647807                                                                                            REALOCAR COND MULTIPLEXADO DE 35 A 70 MMM        57.00    542.64 4
+B0647807                                                                                            RETIRAR EST BT PARA COND MUTIPLEXADO    UD        1.00     17.08 4
+B0827332                000000000003310007                  CRUZETA CONC RET  2400MM  200DAN                                                CDA       1.00     40.45 1
+B0827332                000000000003493315                  ARRUELA LIS QUAD SAE1020 M18                                                    CDA      11.00      2.09 1
+B0827332                000000000003410080                  MAO FRANCESA PLANA ACO  710MM                                                   CDA       2.00      5.10 1
+B0827332                000000000003480285                  PARAFUSO CAB QUAD ACO  12X125                                                   CDA       2.00      1.60 1
+B0827332                000000000003490080                  PORCA QUAD SAE1020 MG     M16                                                   CDA       4.00      0.84 1
+B0827332                000000000003423030                  GANCHO SUSP OLHAL   5000DAN                                                     CDA       4.00     10.76 1
+B0827332                000000000003493325                  ARRUELA QUAD ACO  38 F14,00                                                     CDA       2.00      0.34 1
+B0827332                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      0.51 1
+B0827332                000000000003310009                  CRUZETA CONC T    2400MM  400DAN                                                CDA       2.00    119.80 1
+B0827332                000000000003486040                  OLHAL P/PARAF FOFO M16-5/8" 5000DAN                                             CDA       4.00     11.36 1
+B0827332                NDEMU0022RD                                                                 RETIRAR EST CRUZETA DUPLA (PINO)        UD        1.00     79.30 2
+B0827332                NDEVU0009RD                                                                 RETIRAR EST CRUZETA SIMPLES (PINO)      UD        1.00    143.78 2
+B0827332                NDETU0001SI                                                                 TRANSP MAT OBRA ATÉ 150 KM              TXK     117.56     41.15 2
+B0827332                NDETU0002SI                                                                 TRANSP MAT OBRA ATÉ 150 KM (N PAV)      TXK       0.94      0.42 2
+B0827332                NDEVU0001RD                                                                 PROTEÇÃO LV POSTE/REDE - RETIRAR        UD        1.00    143.78 2
+B0827332                NDEVU0014RD                                                                 RETIRAR EST CRUZETA DUPLA (2 ANCORAGENS)UD        1.00    143.78 2
+B0827332                NDEMU0002RD                                                                 RETIRAR POSTE 10 A 16 METROS            UD        1.00    509.07 2
+B0827332                NDEMU0021RD                                                                 RETIRAR EST CRUZETA SIMPLES (PINO)      UD        1.00     45.59 2
+B0827332                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    195.33 3
+B0827332                                                    VALOR SALVADO                                                                             0.00    192.85-3
+B0875614                000000000003493315                  ARRUELA LIS QUAD SAE1020 M18                                                    CDA       8.00      1.68 1
+B0875614                000000000003486040                  OLHAL P/PARAF FOFO M16-5/8" 5000DAN                                             CDA       6.00     18.12 1
+B0875614                000000000003310009                  CRUZETA CONC T    2400MM  400DAN                                                CDA       2.00    108.00 1
+B0875614                000000000003324021                  PLACA CONC ESTAI 400 F22                                                        CDA       2.00     17.74 1
+B0875614                000000000003421010                  SAPATILHA CABO 9,5MM                                                            CDA       4.00      2.60 1
+B0875614                000000000003490080                  PORCA QUAD SAE1020 MG     M16                                                   CDA       4.00      0.96 1
+B0875614                000000000004401065                  CORDOALHA ACO ZINC  MR   6,4MM                                                  M         2.86      2.06 1
+B0875614                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      0.51 1
+B0875614                000000000003480310                  PARAFUSO CAB QUAD ACO  16X 250                                                  CDA       1.00      1.81 1
+B0875614                000000000003423030                  GANCHO SUSP OLHAL   5000DAN                                                     CDA       6.00     17.10 1
+B0875614                000000000003436010                  CHAPA ESTAI  76MM                                                               CDA       2.00      4.42 1
+B0875614                000000000003435010                  HASTE ACO CARB 16X 2400MM 5000DAN                                               CDA       2.00     33.36 1
+B0875614                000000000003430370                  ALCA PREFORMADA ESTAI 6,40 MM MR                                                CDA       4.00      3.52 1
+B0875614                NDEVU0014RD                                                                 RETIRAR EST CRUZETA DUPLA (2 ANCORAGENS)UD        1.00    902.93 2
+B0875614                NDEVU0001RD                                                                 PROTEÇÃO LV POSTE/REDE - RETIRAR        UD        1.00    515.60 2
+B0875614                NDETU0020SD                                                                 TRANSP MAT OBRA - 25TON > DE 50 KM NPAV TXK      18.67      7.28 2
+B0875614                NDETU0019SD                                                                 TRANSP MAT OBRA - 25TON > DE 50 KM  PAV TXK      96.04     29.77 2
+B0875614                NDETU0018SD                                                                 TRANSP MAT OBRA - 25TON - ATE 50 KM NPAVCDA       1.00   1153.40 2
+B0875614                NDETU0017SD                                                                 TRANSP MAT OBRA - 25TON - ATE 50 KM  PAVCDA       1.00    937.73 2
+B0875614                NDEMU0025RD                                                                 RETIRAR ESTAI (SOLO)                    UD        1.00    181.45 2
+B0875614                NDEMU0022RD                                                                 RETIRAR EST CRUZETA DUPLA (PINO)        UD        1.00    134.15 2
+B0875614                NDEMU0002RD                                                                 RETIRAR POSTE 10 A 16 METROS            UD        1.00    861.22 2
+B0875614                                                    VALOR SALVADO                                                                             0.00    211.88-3
+B0875614                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    833.56 3
+B0911726                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       7.00     12.39 1
+B0911726                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA      18.00      1.44 1
+B0911726                NDEMU0001RD                                                                 RETIRAR POSTE 7 A 9 METROS              UD        7.00   3129.35 2
+B0911726                NDETU0020SD                                                                 TRANSP MAT OBRA - 25TON > DE 50 KM NPAV TXK      72.29     28.19 2
+B0911726                NDETU0017SD                                                                 TRANSP MAT OBRA - 25TON - ATE 50 KM  PAVCDA       1.00    937.73 2
+B0911726                NDETU0018SD                                                                 TRANSP MAT OBRA - 25TON - ATE 50 KM NPAVCDA       1.00   1153.40 2
+B0911726                NDETU0019SD                                                                 TRANSP MAT OBRA - 25TON > DE 50 KM  PAV TXK     588.68    182.49 2
+B0911726                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    958.44 3
+B0911726                                                    VALOR SALVADO                                                                             0.00     13.83-3
+B0928438                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       2.00      1.02 1
+B0928438                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA       1.00      0.51 1
+B0928438                000000000007913002                  SUCATA CABO AL NU C/ALMA                                                        KG        2.80      1.43 1
+B0928438                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG        0.90      0.46 1
+B0928438                NDEMU0012RD                                                                 RETIRAR COND NU                         KG        2.84     19.08 2
+B0928438                NDEMU0001RD                                                                 RETIRAR POSTE 7 A 9 METROS              UD        2.00    894.10 2
+B0928438                                                    VALOR SALVADO                                                                             0.00      3.42-3
+B0928438                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    161.15 3
+B0929978                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA       2.00      1.02 1
+B0929978                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG        3.40      1.73 1
+B0929978                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      0.51 1
+B0929978                000000000007931008                  SUCATA CONCRETO ARMADO 1                                                        CDA       1.00      0.51 1
+B0929978                NDEVU0001RD                                                                 PROTEÇÃO LV POSTE/REDE - RETIRAR        UD        1.00    515.60 2
+B0929978                NDETU0011SD                                                                 TRANSP MAT OBRA - 08TON > DE 50 KM  PAV TXK     291.00    101.85 2
+B0929978                NDETU0010SD                                                                 TRANSP MAT OBRA - 08TON - ATE 50 KM NPAVCDA       1.00    799.69 2
+B0929978                NDETU0009SD                                                                 TRANSP MAT OBRA - 08TON - ATE 50 KM  PAVCDA       1.00    650.16 2
+B0929978                NDEVU0009RC                                                                 RETIRAR EST CRUZETA SIMPLES (PINO)      UD        1.00    437.71 2
+B0929978                NDEMU0002RD                                                                 RETIRAR POSTE 10 A 16 METROS            UD        1.00    861.22 2
+B0929978                                                    VALOR SALVADO                                                                             0.00      3.77-3
+B0929978                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    594.04 3
+B1020083                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      1.77 1
+B1020083                000000000007902002                  SUCATA FERRO MISTO                                                              KG        0.50      0.05 1
+B1020083                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        1.00    400.78 2
+B1020083                                                    ENG. E ADMIN.PROPRIA                                                                      0.00     70.73 3
+B1020083                                                    VALOR SALVADO                                                                             0.00      1.82-3
+B1028156                000000000007931010                  SUCATA CONCRETO ARMADO 2                                                        CDA       4.00      2.36 1
+B1028156                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      1.77 1
+B1028156                000000000007927001                  SUCATA ISOLADOR POLIMERICO                                                      KG        9.00      2.34 1
+B1028156                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA       9.00      0.72 1
+B1028156                000000000007913002                  SUCATA CABO AL NU C/ALMA                                                        KG       36.90     70.85 1
+B1028156                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG       33.80      1.35 1
+B1028156                SDEMU3401RD                                                                 RETIRAR EST BT PARA COND MULTIPLEX      UD        3.00     51.57 2
+B1028156                SDEMU3206RD                                                                 RETIRAR EST CRUZ DUPLA 2 ANCORAGENS     UD        1.00    166.56 2
+B1028156                SDEMU3205RD                                                                 RETIRAR EST CRUZ DUPLA 1 ANCORAGEM      UD        1.00    109.00 2
+B1028156                SDEMU1401RD                                                                 RETIRAR CONDUTOR NU                     KG       36.86    205.31 2
+B1028156                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        1.00    480.51 2
+B1028156                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    178.76 3
+B1028156                                                    VALOR SALVADO                                                                             0.00     79.39-3
+B1032066                000000000007912005                  SUCATA CABO AL MULTIPLEXADO                                                     KG       32.00     26.88 1
+B1032066                000000000000210132                  TRAFO 1FF  10,0KVA  15,0KV      AVARIADO                                        CDA       1.00    303.99 1
+B1032066                SDEMU1213RD                                                                 RETIRAR TRAFO POLIFASICO                UD        1.00    270.01 2
+B1032066                SDEMU1405RD                                                                 RETIRAR CABO MULTIPLEX DE 35 A 70 MM2   M        76.00    475.76 2
+B1032066                                                    VALOR SALVADO                                                                             0.00    330.87-3
+B1032066                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    131.61 3
+B1036308                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      1.77 1
+B1036308                000000000007931010                  SUCATA CONCRETO ARMADO 2                                                        CDA       1.00      0.59 1
+B1036308                SDEMU3206RD                                                                 RETIRAR EST CRUZ DUPLA 2 ANCORAGENS     UD        1.00    151.42 2
+B1036308                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        1.00    436.83 2
+B1036308                                                    VALOR SALVADO                                                                             0.00      2.36-3
+B1036308                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    103.81 3
+B1036922                000000000007931010                  SUCATA CONCRETO ARMADO 2                                                        CDA       2.00      1.18 1
+B1036922                000000000007913002                  SUCATA CABO AL NU C/ALMA                                                        KG       36.38     69.86 1
+B1036922                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG       17.52      0.70 1
+B1036922                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA       3.00      0.24 1
+B1036922                000000000007927001                  SUCATA ISOLADOR POLIMERICO                                                      KG        6.00      1.56 1
+B1036922                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      1.77 1
+B1036922                SDEMU3206RD                                                                 RETIRAR EST CRUZ DUPLA 2 ANCORAGENS     UD        1.00    167.32 2
+B1036922                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        1.00    482.70 2
+B1036922                SDEMU1401RD                                                                 RETIRAR CONDUTOR NU                     KG       36.38    203.75 2
+B1036922                                                    VALOR SALVADO                                                                             0.00     75.31-3
+B1036922                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    150.66 3
+B1037067                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      1.77 1
+B1037067                000000000007931010                  SUCATA CONCRETO ARMADO 2                                                        CDA       2.00      1.18 1
+B1037067                000000000007913002                  SUCATA CABO AL NU C/ALMA                                                        KG        4.44      8.52 1
+B1037067                SDEMU3205RD                                                                 RETIRAR EST CRUZ DUPLA 1 ANCORAGEM      UD        2.00    198.20 2
+B1037067                SDEMU1401RD                                                                 RETIRAR CONDUTOR NU                     KG        4.44     22.51 2
+B1037067                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        1.00    436.83 2
+B1037067                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    116.04 3
+B1037067                                                    VALOR SALVADO                                                                             0.00     11.47-3
+B1037736                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      1.77 1
+B1037736                000000000007900012                  SUCATA CABO ACO GALV                                                            KG        2.00      1.18 1
+B1037736                000000000007902002                  SUCATA FERRO MISTO                                                              KG        2.00      0.18 1
+B1037736                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        1.00    436.83 2
+B1037736                                                    VALOR SALVADO                                                                             0.00      3.13-3
+B1037736                                                    ENG. E ADMIN.PROPRIA                                                                      0.00     77.09 3
+B1045603                000000000007902002                  SUCATA FERRO MISTO                                                              KG        1.00      0.09 1
+B1045603                000000000007910008                  SUCATA CABO/FIO COBRE NU                                                        KG       32.83    163.80 1
+B1045603                SDEMU1401RD                                                                 RETIRAR CONDUTOR NU                     KG       29.84    151.29 2
+B1045603                                                    ENG. E ADMIN.PROPRIA                                                                      0.00     26.70 3
+B1045603                                                    VALOR SALVADO                                                                             0.00    163.89-3
+B1046057                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      1.77 1
+B1046057                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        1.00    436.83 2
+B1046057                                                    VALOR SALVADO                                                                             0.00      1.77-3
+B1046057                                                    ENG. E ADMIN.PROPRIA                                                                      0.00     77.09 3
+B1046607                000000000007931008                  SUCATA CONCRETO ARMADO 1                                                        CDA       1.00      0.62 1
+B1046607                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      1.77 1
+B1046607                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        1.00    436.83 2
+B1046607                SDEMU3203RD                                                                 RETIRAR EST CRUZ SIMP ISOL PINO/PILAR   UD        1.00     54.72 2
+B1046607                                                    VALOR SALVADO                                                                             0.00      2.39-3
+B1046607                                                    ENG. E ADMIN.PROPRIA                                                                      0.00     86.74 3
+B1050556                000000000000210282                  TRAFO 3F   30,0KVA  15,0KV      AVARIADO                                        CDA       1.00    510.52 1
+B1050556                000000000007910008                  SUCATA CABO/FIO COBRE NU                                                        KG        2.80     13.97 1
+B1050556                000000000007912005                  SUCATA CABO AL MULTIPLEXADO                                                     KG       60.00     50.40 1
+B1050556                SDEMU1213RD                                                                 RETIRAR TRAFO POLIFASICO                UD        1.00    271.24 2
+B1050556                                                    VALOR SALVADO                                                                             0.00    574.89-3
+B1050556                                                    ENG. E ADMIN.PROPRIA                                                                      0.00     47.87 3
+B1054326                000000000007931008                  SUCATA CONCRETO ARMADO 1                                                        CDA       2.00      2.44 1
+B1054326                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG       18.78      1.31 1
+B1054326                000000000007942006                  SUCATA PARA-RAIOS                                                               CDA       2.00      1.44 1
+B1054326                000000000000211082                  TRAFO 1FN  10,0KVA  38,0KV      AVARIADO                                        CDA       1.00    790.74 1
+B1054326                000000000007927001                  SUCATA ISOLADOR POLIMERICO                                                      KG        1.00      0.50 1
+B1054326                000000000007910008                  SUCATA CABO/FIO COBRE NU                                                        KG        1.28     12.52 1
+B1054326                000000000007927006                  SUCATA CHAVE FUSIVEL                                                            CDA       2.00      2.24 1
+B1054326                SDEMU3207RD                                                                 RETIRAR EST CRUZ PARA EQUIPAMENTO       UD        1.00     62.22 2
+B1054326                SDEMU1401RD                                                                 RETIRAR CONDUTOR NU                     KG        1.28      6.49 2
+B1054326                SDEMU1212RD                                                                 RETIRAR TRAFO MONOFASICO                UD        1.00    200.82 2
+B1054326                                                    ENG. E ADMIN.PROPRIA                                                                      0.00     47.56 3
+B1054326                                                    VALOR SALVADO                                                                             0.00    811.19-3
+B1057971                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA       9.00      0.72 1
+B1057971                000000000007913002                  SUCATA CABO AL NU C/ALMA                                                        KG        7.44     14.29 1
+B1057971                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      1.77 1
+B1057971                000000000007931008                  SUCATA CONCRETO ARMADO 1                                                        CDA      38.00     23.56 1
+B1057971                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG       28.68      1.15 1
+B1057971                000000000007900012                  SUCATA CABO ACO GALV                                                            KG        4.58      2.70 1
+B1057971                000000000007927001                  SUCATA ISOLADOR POLIMERICO                                                      KG        6.00      1.56 1
+B1057971                SDEMU1401RD                                                                 RETIRAR CONDUTOR NU                     KG        7.44     37.74 2
+B1057971                SDEMU3204RD                                                                 RETIRAR EST CRUZ DUPL ISOL PINO/PILAR   UD        1.00    154.93 2
+B1057971                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        1.00    436.83 2
+B1057971                SDEMU3206RD                                                                 RETIRAR EST CRUZ DUPLA 2 ANCORAGENS     UD        1.00    151.42 2
+B1057971                                                    VALOR SALVADO                                                                             0.00     45.75-3
+B1057971                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    137.81 3
+B1059547                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA      93.00      7.44 1
+B1059547                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG       50.75      2.03 1
+B1059547                000000000007910014                  SUCATA COBRE                                                                    KG        0.65      2.03 1
+B1059547                000000000007910008                  SUCATA CABO/FIO COBRE NU                                                        KG        8.86     44.19 1
+B1059547                SDEMU3805RD                                                                 RETIRAR HASTE DE ATERRAMENTO            UD        3.00     41.88 2
+B1059547                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        3.00   1310.49 2
+B1059547                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    238.65 3
+B1059547                                                    VALOR SALVADO                                                                             0.00     55.69-3
+B1068098                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA       1.00      0.08 1
+B1068098                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG        1.00      0.04 1
+B1068098                                                    VALOR SALVADO                                                                             0.00      0.12-3
+B1071368                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG        1.00      0.04 1
+B1071368                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      1.77 1
+B1071368                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        1.00    482.70 2
+B1071368                                                    VALOR SALVADO                                                                             0.00      1.81-3
+B1071368                                                    ENG. E ADMIN.PROPRIA                                                                      0.00     85.18 3
+B1075724                000000000007913002                  SUCATA CABO AL NU C/ALMA                                                        KG        6.75     12.96 1
+B1075724                SDEVU3203RD                                                                 RETIRAR EST CRUZ SIMP ISOL PINO/PILAR LVUD        1.00    463.77 2
+B1075724                SDEMU1401RD                                                                 RETIRAR CONDUTOR NU                     KG        6.75     37.80 2
+B1075724                                                    VALOR SALVADO                                                                             0.00     12.96-3
+B1075724                                                    ENG. E ADMIN.PROPRIA                                                                      0.00     88.51 3
+B1080287                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG        2.00      0.08 1
+B1080287                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA       1.00      0.08 1
+B1080287                                                    VALOR SALVADO                                                                             0.00      0.16-3
+B1082175                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA      21.00      3.36 1
+B1082175                000000000007912007                  SUCATA CABO AL S/ALMA                                                           KG       16.09     51.01 1
+B1082175                000000000007912005                  SUCATA CABO AL MULTIPLEXADO                                                     KG       53.72     88.10 1
+B1082175                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG       19.60      1.37 1
+B1082175                SDEMU1401RD                                                                 RETIRAR CONDUTOR NU                     KG       16.09     90.10 2
+B1082175                SDEMU1405RD                                                                 RETIRAR CABO MULTIPLEX DE 35 A 70 MM2   M       136.00    855.44 2
+B1082175                SDEMU3401RD                                                                 RETIRAR EST BT PARA COND MULTIPLEX      UD       14.00    241.78 2
+B1082175                                                    VALOR SALVADO                                                                             0.00    143.84-3
+B1082175                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    209.53 3
+B1082234                000000000007910008                  SUCATA CABO/FIO COBRE NU                                                        KG        0.03      0.14 1
+B1082234                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG        2.40      0.10 1
+B1082234                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      1.77 1
+B1082234                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA       6.00      0.48 1
+B1082234                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        1.00    482.70 2
+B1082234                                                    ENG. E ADMIN.PROPRIA                                                                      0.00     85.18 3
+B1082234                                                    VALOR SALVADO                                                                             0.00      2.49-3
+B1083539                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA       5.00      0.40 1
+B1083539                000000000007913002                  SUCATA CABO AL NU C/ALMA                                                        KG      165.00    316.80 1
+B1083539                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG       10.00      0.40 1
+B1083539                SDEMU1401RD                                                                 RETIRAR CONDUTOR NU                     KG      165.00    924.00 2
+B1083539                                                    VALOR SALVADO                                                                             0.00    317.60-3
+B1083539                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    163.06 3
+B1083574                000000000007913002                  SUCATA CABO AL NU C/ALMA                                                        KG        7.29     14.00 1
+B1083574                SDEMU1401RD                                                                 RETIRAR CONDUTOR NU                     KG       81.00    453.60 2
+B1083574                                                    VALOR SALVADO                                                                             0.00     14.00-3
+B1083574                                                    ENG. E ADMIN.PROPRIA                                                                      0.00     80.05 3
+B1086554                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA       2.00      0.16 1
+B1086554                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG        2.00      0.08 1
+B1086554                                                    VALOR SALVADO                                                                             0.00      0.24-3
+B1087247                000000000007912005                  SUCATA CABO AL MULTIPLEXADO                                                     KG      133.40    112.06 1
+B1087247                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      1.77 1
+B1087247                000000000007910008                  SUCATA CABO/FIO COBRE NU                                                        KG        0.15      0.72 1
+B1087247                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA      25.00      2.00 1
+B1087247                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG       12.04      0.48 1
+B1087247                SDEMU1405RD                                                                 RETIRAR CABO MULTIPLEX DE 35 A 70 MM2   M       200.00   1258.00 2
+B1087247                SDEMU1404RD                                                                 RETIRAR CABO MULTIPLEX ATE 25 MM2       M       200.00    740.00 2
+B1087247                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        1.00    482.70 2
+B1087247                                                    VALOR SALVADO                                                                             0.00    117.03-3
+B1087247                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    437.77 3
+B1087765                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA       2.00      0.16 1
+B1087765                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG        1.00      0.04 1
+B1087765                                                    VALOR SALVADO                                                                             0.00      0.20-3
+B1089970                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA      12.00      0.96 1
+B1089970                000000000007910008                  SUCATA CABO/FIO COBRE NU                                                        KG        0.06      0.29 1
+B1089970                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       2.00      3.54 1
+B1089970                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG        4.80      0.19 1
+B1089970                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        2.00    965.40 2
+B1089970                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    170.36 3
+B1089970                                                    VALOR SALVADO                                                                             0.00      4.98-3
+B1090409                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      1.77 1
+B1090409                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        1.00    482.70 2
+B1090409                                                    ENG. E ADMIN.PROPRIA                                                                      0.00     85.18 3
+B1090409                                                    VALOR SALVADO                                                                             0.00      1.77-3
+B1091380                000000000007930007                  SUCATA POSTE CONC CIRCULAR                                                      CDA       2.00      1.24 1
+B1091380                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG        9.00      0.36 1
+B1091380                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA       9.00      0.72 1
+B1091380                000000000007912007                  SUCATA CABO AL S/ALMA                                                           KG        4.29      6.95 1
+B1091380                SDEMU1401RD                                                                 RETIRAR CONDUTOR NU                     KG        4.29     24.04 2
+B1091380                SDEMU1003RD                                                                 RETIRAR POSTE 7 METROS                  UD        2.00    528.28 2
+B1091380                                                    VALOR SALVADO                                                                             0.00      9.27-3
+B1091380                                                    ENG. E ADMIN.PROPRIA                                                                      0.00     97.47 3
+B1091527                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       3.00      5.31 1
+B1091527                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG        7.20      0.29 1
+B1091527                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA      18.00      1.44 1
+B1091527                000000000007912005                  SUCATA CABO AL MULTIPLEXADO                                                     KG       37.80     31.75 1
+B1091527                000000000007910008                  SUCATA CABO/FIO COBRE NU                                                        KG        0.09      0.43 1
+B1091527                SDEMU1404RD                                                                 RETIRAR CABO MULTIPLEX ATE 25 MM2       M       225.00    832.50 2
+B1091527                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        3.00   1448.10 2
+B1091527                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    402.46 3
+B1091527                                                    VALOR SALVADO                                                                             0.00     39.22-3
+B1093472                000000000007910008                  SUCATA CABO/FIO COBRE NU                                                        KG        0.06      0.29 1
+B1093472                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG        4.84      0.19 1
+B1093472                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA       7.00      0.56 1
+B1093472                SDEMU3401II                                                                 INSTALAR EST BT PARA COND MULTIPLEX     UD        2.00     73.88 2
+B1093472                                                    ENG. E ADMIN.PROPRIA                                                                      0.00     13.04 3
+B1093472                                                    VALOR SALVADO                                                                             0.00      1.04-3
+B1094436                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG        9.00      0.36 1
+B1094436                000000000007912005                  SUCATA CABO AL MULTIPLEXADO                                                     KG       58.80     49.39 1
+B1094436                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       1.00      1.77 1
+B1094436                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA      15.00      1.20 1
+B1094436                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        1.00    482.70 2
+B1094436                SDEMU1405RD                                                                 RETIRAR CABO MULTIPLEX DE 35 A 70 MM2   M       210.00   1320.90 2
+B1094436                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    318.28 3
+B1094436                                                    VALOR SALVADO                                                                             0.00     52.72-3
+B1094562                000000000007912005                  SUCATA CABO AL MULTIPLEXADO                                                     KG      147.41    123.82 1
+B1094562                SDEMU1405RD                                                                 RETIRAR CABO MULTIPLEX DE 35 A 70 MM2   M       221.00   1390.09 2
+B1094562                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    245.31 3
+B1094562                                                    VALOR SALVADO                                                                             0.00    123.82-3
+B1094573                000000000007910008                  SUCATA CABO/FIO COBRE NU                                                        KG        2.98     14.88 1
+B1094573                000000000007912007                  SUCATA CABO AL S/ALMA                                                           KG        4.93      7.99 1
+B1094573                000000000007927000                  SUCATA ISOLADOR PORCELANA                                                       CDA      42.00      3.36 1
+B1094573                000000000007910014                  SUCATA COBRE                                                                    KG        0.22      0.68 1
+B1094573                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       2.00      3.54 1
+B1094573                000000000007900000                  SUCATA ACO GALVANIZADO                                                          KG       19.28      0.77 1
+B1094573                SDEMU3805RD                                                                 RETIRAR HASTE DE ATERRAMENTO            UD        1.00     15.42 2
+B1094573                SDEMU3401RD                                                                 RETIRAR EST BT PARA COND MULTIPLEX      UD        7.00    120.89 2
+B1094573                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        2.00    965.40 2
+B1094573                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    194.42 3
+B1094573                                                    VALOR SALVADO                                                                             0.00     31.22-3
+B1095152                000000000007931010                  SUCATA CONCRETO ARMADO 2                                                        CDA       2.00      1.18 1
+B1095152                000000000007931008                  SUCATA CONCRETO ARMADO 1                                                        CDA       1.00      0.62 1
+B1095152                000000000007930005                  SUCATA POSTE CONC DT                                                            CDA       3.00      5.31 1
+B1095152                000000000007913002                  SUCATA CABO AL NU C/ALMA                                                        KG      263.62    506.15 1
+B1095152                SDEMU1401RD                                                                 RETIRAR CONDUTOR NU                     KG      263.62   1476.27 2
+B1095152                SDEMU3206RD                                                                 RETIRAR EST CRUZ DUPLA 2 ANCORAGENS     UD        2.00    334.64 2
+B1095152                SDEMU1004RD                                                                 RETIRAR POSTE 9 A 14 METROS             UD        3.00   1448.10 2
+B1095152                SDEMU3203RD                                                                 RETIRAR EST CRUZ SIMP ISOL PINO/PILAR   UD        1.00     60.46 2
+B1095152                                                    VALOR SALVADO                                                                             0.00    513.26-3
+B1095152                                                    ENG. E ADMIN.PROPRIA                                                                      0.00    585.79 3
